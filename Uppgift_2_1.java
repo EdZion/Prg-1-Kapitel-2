@@ -10,7 +10,6 @@ public class Uppgift_2_1{
 		String adress;
 		String tfnr;
 		String allt;
-		
 		namn="Alexander Holmström";
 		adress="Snovitsvagen 27";
 		tfnr="07012345678";
